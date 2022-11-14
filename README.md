@@ -1,0 +1,1 @@
+Java application with a button you can't close
