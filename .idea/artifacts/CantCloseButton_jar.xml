@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CantCloseButton:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CantCloseButton_jar</output-path>
+    <root id="archive" name="CantCloseButton.jar">
+      <element id="module-output" name="CantCloseButton" />
+    </root>
+  </artifact>
+</component>
